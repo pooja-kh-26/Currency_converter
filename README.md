@@ -10,5 +10,7 @@ Technologies
 2. API: Fetches rates from an endpoint providing October 2024 data.
 3. Hosting: Netlify.
 
+Click here to view: https://currency-converter-20-24.netlify.app/
+
 ![Screenshot 2024-09-30 213631](https://github.com/user-attachments/assets/578fe24b-9f5b-4d98-8338-a6411977ba3a)
 ![Screenshot 2024-09-30 213708](https://github.com/user-attachments/assets/dbed4457-2b7f-463d-9ce7-c72b6b9ca5ad)
