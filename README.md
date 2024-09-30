@@ -1,13 +1,13 @@
-The Currency Converter is a web application that allows users to convert amounts between various currencies using predefined exchange rates from 2024-03-06. The application features a clean and intuitive interface, dynamically updating currency selections and displaying corresponding country flags. Users can easily input the amount to be converted, and the app calculates the converted value based on the fetched rates, providing a seamless and efficient currency conversion experience.
+The Currency Converter is a web application that allows users to convert amounts between various currencies using exchange rates from March 6, 2024. The app features a clean and intuitive interface, dynamically updating currency selections and displaying corresponding country flags. Users can easily input amounts to be converted, and the app calculates the result using the fetched rates, ensuring a seamless and efficient currency conversion experience.
 
 Features
 1. Convert between multiple currencies.
-2. Fetches rates based on 2024-03-06.
+2. Fetches rates based on March 6, 2024.
 3. Updates country flags dynamically.
 
 Technologies
 1. Frontend: HTML, CSS, JavaScript.
-2. API: Fetches rates from an endpoint providing October 2024 data.
+2. API: Fetches rates from an endpoint.
 3. Hosting: Netlify.
 
 Click here to view the website: https://currency-converter-20-24.netlify.app/
